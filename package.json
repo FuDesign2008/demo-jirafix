@@ -1,0 +1,10 @@
+{
+  "name": "demo-jirafix",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Demo repo with a deliberate one-line bug, target of a jira-fix-workflow demo run (stops at PR-open)",
+  "scripts": {
+    "test": "node --test test/"
+  }
+}
